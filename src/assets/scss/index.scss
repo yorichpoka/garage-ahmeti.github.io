@@ -1,0 +1,20 @@
+@import "variables.scss";
+@import "fonts.scss";
+
+body {
+  font-size: 1rem;
+  font-family: "TitilliumWeb-Regular";
+}
+
+small,
+.small {
+  font-size: 0.8em;
+}
+
+.bg-orange {
+  background-color: $color-orange !important;
+}
+
+.text-orange {
+  color: $color-orange !important;
+}

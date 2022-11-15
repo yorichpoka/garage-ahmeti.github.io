@@ -1,0 +1,15 @@
+@import "assets/scss/variables.scss";
+
+.app-footer {
+  background-color: $color-orange;
+  padding: 5rem 0 5rem 0;
+  color: white;
+
+  a {
+    color: white;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+}

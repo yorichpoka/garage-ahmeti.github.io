@@ -1,0 +1,34 @@
+{
+  "common": {
+    "contact": "contact"
+  },
+  "footer": {
+    "socialNetwork": {
+      "title": "Réseaux sociaux"
+    }
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "description": "To do..."
+  },
+  "home": {
+    "home": "Acceuil",
+    "title": "GARAGE AUTO à Aigle",
+    "description": "Achat - Vente - réparation - transport"
+  },
+  "contact": {
+    "hours": "Horaires",
+    "from": "Du lundi au vendredi",
+    "to": "Les samedi",
+    "title": "Nous contacter",
+    "description": "to do..."
+  },
+  "services": {
+    "title": "Nos services",
+    "description": "to do..."
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "description": "Vous tentez d'accéder à une page qui n'existe pas."
+  }
+}
