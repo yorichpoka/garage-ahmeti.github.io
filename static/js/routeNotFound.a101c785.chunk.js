@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgarage_ahmeti_app=self.webpackChunkgarage_ahmeti_app||[]).push([[220],{1420:function(n,e,t){t.r(e),t.d(e,{default:function(){return s}});var a=t(3168),i=t(1496),r=t(184),s=function(){var n=(0,a.$)().t;return(0,i.L)(n("notFound.title")),(0,r.jsx)("div",{className:"container my-5",children:(0,r.jsxs)("div",{className:"app-notFound",children:[(0,r.jsx)("h1",{children:n("notFound.title")}),(0,r.jsx)("p",{children:n("notFound.description")})]})})}}}]);
+//# sourceMappingURL=routeNotFound.a101c785.chunk.js.map

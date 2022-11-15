@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/routeHome.695df859.chunk.css","mappings":"AACE,YACE,iBAEF,cACE,aACA","sources":["modules/home/Home.scss"],"sourcesContent":[".app-home {\r\n  p {\r\n    font-size: calc(1rem + 0.1rem);\r\n  }\r\n  img {\r\n    height: 200px;\r\n    width: auto;\r\n  }\r\n}\r\n"],"names":[],"sourceRoot":""}
