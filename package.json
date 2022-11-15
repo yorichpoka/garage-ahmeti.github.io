@@ -1,5 +1,6 @@
 {
   "name": "garage-ahmeti-app",
+  "homepage": "https://yorichpoka.github.io/garage-ahmeti.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
