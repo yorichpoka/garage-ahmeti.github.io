@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgarage_ahmeti_app=self.webpackChunkgarage_ahmeti_app||[]).push([[361],{5550:function(a,e,i){i.r(e),i.d(e,{default:function(){return n}});var r=i(3168),t=i(1496),c=i(184),n=function(){var a=(0,r.$)().t;return(0,t.L)(a("privacy.title")),(0,c.jsx)("div",{className:"container my-5",children:(0,c.jsx)("div",{className:"app-privacy",children:a("privacy.title")})})}}}]);
-//# sourceMappingURL=routePrivacy.3b5fd9de.chunk.js.map
